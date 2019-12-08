@@ -26,7 +26,7 @@ export default () => (
             <style type="text/css"> 
                 {` 
                     @font-face{
-                        font-family:NewWaveAztec;
+                        font-family:AnuDaw;
                         src:
                             url("../font/Anud/AnuDaw.ttf") format("truetype"),
                             url("../font/Anud/AnuDaw.woff") format("woff"),
@@ -36,7 +36,7 @@ export default () => (
                             url("../font/Anud/AnuDaw.svg")  format('svg');
                     }
                     text{
-                        font-family: NewWaveAztec;
+                        font-family: AnuDaw;
                         font-size:3em;
                     }
                 `}
@@ -47,7 +47,7 @@ export default () => (
          <style type="text/css"> 
             {` 
                 @font-face{
-                    font-family:NewWaveAztec;
+                    font-family:AnuDaw;
                     src:
                         url("../font/Anud/AnuDaw.ttf") format("truetype"),
                         url("../font/Anud/AnuDaw.woff") format("woff"),
@@ -57,7 +57,7 @@ export default () => (
                         url("../font/Anud/AnuDaw.svg")  format('svg');
                 }
                 text{
-                    font-family: NewWaveAztec;
+                    font-family: AnuDaw;
                     font-size:3em;
                 }
             `}
@@ -67,20 +67,20 @@ export default () => (
         <g  
             className="text_group"        
             id="panel_animation"
-           // style={{fontFamily:"Dancing Script"}}
+           // style={{fontFamily:"AnuDaw"}}
             y="0"
            
         >
              <text   
                     wordSpacing="-.45em"    
-                    fontFamily="Dancing Script"
+                    fontFamily="AnuDaw"
                 >
                 <tspan  x="0%" y="0%"  
                     dy="1.6em"   
                     >So</tspan> 
                 <tspan  x="0%" y="-5%" 
                     dy="3em"  
-                    fontFamily="Dancing Script">Food</tspan>
+                    fontFamily="AnuDaw">Food</tspan>
                 </text> 
 
         </g>
