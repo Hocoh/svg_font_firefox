@@ -1,6 +1,6 @@
 # svg_font_firefox
 I am using here NextJS. 
-test import font in a svg's element, expectation: the code is aimed to work with the Firefox's browser
+test import font in a svg's element, expectation: create a code compliant with the Firefox's browser
 <br/>    
 
 **Notice:**  
