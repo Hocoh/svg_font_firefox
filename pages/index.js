@@ -49,12 +49,12 @@ export default () => (
                 @font-face{
                     font-family:AnuDaw;
                     src:
-                        url("../font/Anud/AnuDaw.ttf") format("truetype"),
-                        url("../font/Anud/AnuDaw.woff") format("woff"),
-                        url("../font/Anud/AnuDaw.woff2") format("woff2"),
-                        url("../font/Anud/AnuDaw.eot"),
-                        url("../font/Anud/AnuDaw.eot?#iefix") format('embedded-opentype'),
-                        url("../font/Anud/AnuDaw.svg")  format('svg');
+                        url("/font/Anud/AnuDaw.ttf") format("truetype"),
+                        url("/font/Anud/AnuDaw.woff") format("woff"),
+                        url("/font/Anud/AnuDaw.woff2") format("woff2"),
+                        url("/font/Anud/AnuDaw.eot"),
+                        url("/font/Anud/AnuDaw.eot?#iefix") format('embedded-opentype'),
+                        url("/font/Anud/AnuDaw.svg")  format('svg');
                 }
                 text{
                     font-family: AnuDaw;
